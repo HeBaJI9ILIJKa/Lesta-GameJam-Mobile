@@ -1,2 +1,3 @@
 # GameJam
-https://user-images.githubusercontent.com/116473771/207324678-66521b77-6fac-4879-8653-8fe1b30b399a.mp4
+![image](https://user-images.githubusercontent.com/116473771/211010634-0323e335-82f6-4d7d-8a7a-6c506f314efc.png)
+
